@@ -7,7 +7,7 @@ DAPP, where you fight for pixels in a limited space
 ### Frontend
 
 - [ ] Create an html page to represent the state of the contract
-- [ ] Connect the Wallet, allow to send transactions and update pixels
+- [x] Connect the Wallet, allow to send transactions and update pixels
 - [ ] Implement the design
 
 ### Backend
